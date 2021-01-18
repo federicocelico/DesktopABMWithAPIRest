@@ -1,0 +1,8 @@
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\bin\Debug\Datos.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\bin\Debug\Datos.pdb
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\obj\Debug\Datos.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Datos\obj\Debug\Datos.pdb

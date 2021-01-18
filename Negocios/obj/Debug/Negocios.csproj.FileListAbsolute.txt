@@ -1,0 +1,10 @@
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\bin\Debug\Negocios.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\bin\Debug\Negocios.pdb
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\bin\Debug\Datos.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\bin\Debug\Datos.pdb
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\obj\Debug\Negocios.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Negocios\obj\Debug\Negocios.pdb

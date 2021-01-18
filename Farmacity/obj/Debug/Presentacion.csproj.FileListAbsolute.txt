@@ -1,0 +1,16 @@
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\obj\Debug\Farmacity.wfPrincipal.resources
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\obj\Debug\Farmacity.Properties.Resources.resources
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Farmacity.exe.config
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Farmacity.exe
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Farmacity.pdb
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Negocios.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Datos.dll
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Negocios.pdb
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\bin\Debug\Datos.pdb
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\obj\Debug\Farmacity.exe
+C:\Users\biefr\Documents\Farmacity\Farmacity\Farmacity\obj\Debug\Farmacity.pdb
